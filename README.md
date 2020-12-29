@@ -5,7 +5,7 @@ This is a website for a fictional hiking group Adventure Hikes. It primarily aim
 
 It was built as my first milestone project for Code Institute's Full Stack Software Development course, after I completed the HTML, CSS and User Centric Frontend Development modules. The topic for the project was chosen because hiking and adventure have always been close to my heart.
 
-You can view the live website [here]( "Adventure Hikes"). 
+You can view the live website [here](https://monika-hrda.github.io/adventure-hikes/ "Adventure Hikes"). 
 ***
 ## User Experience (UX)
 
@@ -32,6 +32,17 @@ You can view the live website [here]( "Adventure Hikes").
 
 ### Wireframes
 
+After identifying high level content for the website (while working with all the user stories listed above), templates were first sketched out on paper. Wireframes were then created in Balsamiq, taking three different screen sizes into consideration - smartphone, tablet, and desktop. (As the desktop and tablet version almost do not differ (except the Gallery page which will see three images used per row in the tablet version, instead of the four used in the desktop version), I opted to leave the tablet one out from the following images in this case.)
+
+Home page
+![home page wireframe](wireframes/home.png)
+
+Gallery page
+![gallery page wireframe](wireframes/gallery.png)
+
+Contact Us page
+![contact us page wireframe](wireframes/contact-us.png)
+
 ***
 ## Features
 
@@ -41,6 +52,12 @@ You can view the live website [here]( "Adventure Hikes").
 
 ***
 ## Technologies Used
+
+* HTML
+* CSS
+* Bootstrap
+* Balsamiq
+
 
 ***
 ## Testing
