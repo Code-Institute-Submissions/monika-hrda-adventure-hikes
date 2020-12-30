@@ -46,6 +46,9 @@ Contact Us page
 ***
 ## Features
 
+* Mobile-first design, with all pages fully responsive on all screen sizes.
+* Fully responsive navbar, with menu collapsing on mobile devices and smaller screens.
+
 ### Existing Features
 
 ### Features Left to Implement
@@ -67,6 +70,11 @@ Contact Us page
 
 ***
 ## Credits
+
+###Code
+
+* tutorials from Code Institute's User Centric Frontend Development and CSS modules
+* [Bootstrap navbar component](https://getbootstrap.com/docs/4.3/components/navbar/)
 
 ### Content
 
