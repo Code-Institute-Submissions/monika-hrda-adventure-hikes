@@ -1,0 +1,19 @@
+
+/* ---------------------------- General paddings/margins/text */
+
+
+/* ---------------------------- Footer */
+
+footer {
+    min-height: 60px;
+    padding: 15px 0 0 0;
+}
+
+.social-links {
+    margin:0;
+    text-align: right;
+}
+
+.social-links i {
+    color: #fff;
+}
