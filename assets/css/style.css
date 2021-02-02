@@ -1,6 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Signika:wght@300;400;500;600;700&display=swap');
 
-/* ---------------------------- General paddings/margins/text */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+}
 
+/* ---------------------------------------- Special text/paddings/margins */
+
+h2 {
+    font-family: 'Signika', sans-serif;
+    font-weight: 600;
+}
+
+/* ---------------------------------------- Header */
+
+.navbar {
+    font-family: 'Signika', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+}
+
+.navbar .navbar-brand {
+    font-size: 28px;
+}
 
 /* ---------------------------- Footer */
 
