@@ -59,6 +59,13 @@ Contact Us page
 * HTML
 * CSS
 * Bootstrap
+* Font Awesome
+* Google Fonts
+* jQuery
+* Git
+* Github
+* Gitpod
+* Github Pages
 * Balsamiq
 
 
@@ -71,7 +78,7 @@ Contact Us page
 ***
 ## Credits
 
-###Code
+### Code
 
 * tutorials from Code Institute's User Centric Frontend Development and CSS modules
 * [Bootstrap navbar component](https://getbootstrap.com/docs/4.3/components/navbar/)
