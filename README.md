@@ -28,6 +28,10 @@ You can view the live website [here](https://monika-hrda.github.io/adventure-hik
 
 * #### Typography
 
+  Open Sans font has been used as the main font, mostly for its high legibility and "friendly" appearance. In the unlikely case it is not imported into the website correctly, Sans Serif is the fallback font. 
+  
+  The second font used - for page headings and navbar - is Signika. It is easily readable, which makes it a great choice for use on smartphone screens as well.
+
 * #### Imagery
 
 ### Wireframes
