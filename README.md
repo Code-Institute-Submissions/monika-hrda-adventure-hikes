@@ -34,6 +34,10 @@ You can view the live website [here](https://monika-hrda.github.io/adventure-hik
 
 * #### Imagery
 
+  Images used on the website were selected with the intention of creating a friendly and welcoming effect (smiling people, a group of people hiking together), as well as showcase the nature of Ireland. The hero image is meant to draw the website visitor in, images in the events section depict the area each planned hike is taking place in, and images on the gallery page are meant to further interest the visitor in joining the group on one of their hikes.
+
+  All of these photographs were taken by Monika Hrda, the website's author. They were optimized - resized and subsequently compressed on TinyJPG website - to not waste storage or bandwidth.
+
 ### Wireframes
 
 After identifying high level content for the website (while working with all the user stories listed above), templates were first sketched out on paper. Wireframes were then created in Balsamiq, taking three different screen sizes into consideration - smartphone, tablet, and desktop. (As the desktop and tablet version almost do not differ (except the Gallery page which will see three images used per row in the tablet version, instead of the four used in the desktop version), I opted to leave the tablet one out from the following images in this case.)
@@ -71,6 +75,7 @@ Contact Us page
 * Gitpod
 * Github Pages
 * Balsamiq
+* [TinyJPG](https://tinyjpg.com/) - to optimize JPEG images
 
 
 ***
