@@ -27,7 +27,18 @@ h2 {
     font-size: 28px;
 }
 
-/* ---------------------------- Footer */
+/* ---------------------------------------- Callout */
+
+.callout-container {
+    background-image: url("../images/hero-image.jpg");
+    background-color: #fff;  /* used as fallback background if hero image not available */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+
+/* ---------------------------------------- Footer */
 
 footer {
     min-height: 60px;
