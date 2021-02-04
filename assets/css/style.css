@@ -42,6 +42,17 @@ h2 {
     color: #F3FAE7;
 }
 
+.btn-join {
+    background-color: #DB6400;
+    color: #F3FAE7;
+    border-color: #F3FAE7;
+}
+
+a.btn-join:hover, a.btn-join:active {
+    background-color: #F3FAE7;
+    color: #DB6400;
+}
+
 /* ---------------------------------------- Footer */
 
 footer {
