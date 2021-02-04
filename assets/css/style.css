@@ -59,6 +59,12 @@ button.btn-join:hover, button.btn-join:active {
     border-color: #DB6400;
 }
 
+/* ---------------------------------------- Gallery */
+
+.gallery-img {
+    padding: 0.5rem;
+}
+
 /* ---------------------------------------- Footer */
 
 .footer-container {
