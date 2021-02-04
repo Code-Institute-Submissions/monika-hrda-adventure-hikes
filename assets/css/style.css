@@ -5,6 +5,8 @@ body {
     font-weight: 400;
     font-size: 16px;
     line-height: 25px;
+    color: #282C10;
+    background-color: #F3FAE7;
 }
 
 /* ---------------------------------------- Special text/paddings/margins */
@@ -21,17 +23,19 @@ h2 {
     font-weight: 500;
     font-size: 18px;
     letter-spacing: 0.5px;
+    background-color: #282C10;
 }
 
 .navbar .navbar-brand {
     font-size: 28px;
+    color: #F3FAE7;
 }
 
 /* ---------------------------------------- Callout */
 
 .callout-container {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/hero-image.jpg");
-    background-color: #fff;  /* used as fallback background if hero image not available */
+    background-color: #282C10;  /* used as fallback background if hero image not available */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -55,7 +59,9 @@ a.btn-join:hover, a.btn-join:active {
 
 /* ---------------------------------------- Footer */
 
-footer {
+.footer-container {
+    background-color: #282C10;
+    color: #F3FAE7;
     min-height: 60px;
     padding: 15px 0 0 0;
 }
@@ -66,5 +72,5 @@ footer {
 }
 
 .social-links i {
-    color: #fff;
+    color: #F3FAE7;
 }
