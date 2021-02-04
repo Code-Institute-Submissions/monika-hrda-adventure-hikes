@@ -30,12 +30,16 @@ h2 {
 /* ---------------------------------------- Callout */
 
 .callout-container {
-    background-image: url("../images/hero-image.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/hero-image.jpg");
     background-color: #fff;  /* used as fallback background if hero image not available */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     height: 80vh;
+}
+
+.callout-text {
+    color: #F3FAE7;
 }
 
 /* ---------------------------------------- Footer */
