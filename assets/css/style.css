@@ -66,6 +66,13 @@ button.btn-join:hover, button.btn-join:active {
     max-width: 100%;
 }
 
+/* code from http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/ */
+.event-details, .contact-btn a, .event-img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 /* ---------------------------------------- Gallery */
 
 .gallery-img {
