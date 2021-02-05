@@ -109,3 +109,26 @@ button.btn-join:hover, button.btn-join:active {
 .social-links i {
     color: #F3FAE7;
 }
+
+/* ---------------------------------------- Media queries */
+
+@media only screen and (max-width: 767.98px) {
+    .callout-container {
+        height: 60vh;
+    }
+
+    blockquote {
+        display: none;
+    }
+}
+
+/* tip on 'orientation: landscape' from https://forum.getkirby.com/t/detect-tablet-portrait-landscape/8720/3 */
+@media only screen and (orientation: landscape) and (hover: none), (orientation: landscape) and (hover:on-demand) {
+    h2.display-4 {
+        font-size: 2.5rem;
+    }
+
+    blockquote {
+        display: none;
+    }
+}
