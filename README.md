@@ -81,6 +81,8 @@ Contact Us page
 ***
 ## Testing
 
+Testing of the website has been carried out throughout its development. It was tested for responsiveness on varying screen sizes - both physical screens and with the help of Chrome developer tools.
+
 ***
 ## Deployment
 
@@ -95,5 +97,7 @@ Contact Us page
 ### Content
 
 ### Media
+
+All photographs used on the website were taken by Monika Hrda, the website's author.
 
 ### Acknowledgements
