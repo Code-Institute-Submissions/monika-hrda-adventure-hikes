@@ -60,6 +60,12 @@ button.btn-join:hover, button.btn-join:active {
     border-color: #DB6400;
 }
 
+/* ---------------------------------------- Events */
+
+.event-img {
+    max-width: 100%;
+}
+
 /* ---------------------------------------- Gallery */
 
 .gallery-img {
