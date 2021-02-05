@@ -123,7 +123,7 @@ This project can be forked and deployed to GitHub Pages following these steps:
 4. Scroll down to 'GitHub Pages' section.
 5. Click the 'None' button and select the master branch. 
 6. Click on the 'Save' button. 
-7. Scroll back down to the 'GitHub Pages' section and find the link to your newly publish site.
+7. Scroll back down to the 'GitHub Pages' section and find the link to your newly published site.
 
 ***
 ## Credits
@@ -146,4 +146,4 @@ All photographs used on the website were taken by Monika Hrda, the website's aut
 
 ### Acknowledgements
 
-I would like to thank my mentor Antonio Rodriguez for his advice with the project, and also Mark McGann for his continuous support. Also, what a great resource the Code Institute's Slack channel is! Full of helpful, knowledgeable and friendly coders; thanks to each one of them.
+I would like to thank my mentor Antonio Rodriguez for his advice with the project, and also Mark McGann for his continuous support. Also, what a great resource the Code Institute's Slack channel is! Full of helpful, knowledgeable and friendly coders; thanks to all and each one of them.
